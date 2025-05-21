@@ -31,7 +31,7 @@ public class JwtUtils {
         return decode(token).getSubject();
     }
 
-    public Map<String, Object> extractPermissions(String token) {
+    public Map<String, String> extractPermissions(String token) {
         return decode(token).getClaim("permissions");
     }
 
