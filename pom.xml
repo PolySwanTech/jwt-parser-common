@@ -12,16 +12,16 @@
     <description>Petite lib pour parser un token JWT</description>
 
     <scm>
-        <url>https://github.com/e-jouvenot/tonrepo</url>
-        <connection>scm:git:git://github.com/e-jouvenot/tonrepo.git</connection>
-        <developerConnection>scm:git:ssh://github.com/e-jouvenot/jwt-parser-common.git</developerConnection>
+        <url>https://github.com/PolySwanTech/jwt-parser-common</url>
+        <connection>scm:git:git://github.com/PolySwanTech/jwt-parser-common.git</connection>
+        <developerConnection>scm:git:ssh://github.com/PolySwanTech/jwt-parser-common.git</developerConnection>
     </scm>
 
     <distributionManagement>
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/e-jouvenot/tonrepo</url>
+            <url>https://maven.pkg.github.com/PolySwanTech/jwt-parser-common</url>
         </repository>
     </distributionManagement>
 
